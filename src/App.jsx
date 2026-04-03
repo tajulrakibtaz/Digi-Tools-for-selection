@@ -26,7 +26,7 @@ function App() {
 <Steps></Steps>
 <Pricing></Pricing>
 <Ready></Ready>
-
+<Footer></Footer>
 
 
 
