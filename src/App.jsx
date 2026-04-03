@@ -18,11 +18,14 @@ function App() {
   return (
     <>
         <div className='space-y-5 mt-4'>
-<Navbar></Navbar>
+<Navbar selectCard={selectCard} setSelectedCard={setSelectedCard}></Navbar>
 <Header></Header>
 <Ratings></Ratings>
 <Details></Details>
-<Container></Container>
+
+<Container selectCard={selectCard} setSelectedCard={setSelectedCard}></Container>
+
+
 <Steps></Steps>
 <Pricing></Pricing>
 <Ready></Ready>
