@@ -18,7 +18,7 @@ function App() {
   return (
     <>
         <div className='space-y-5 mt-4'>
-
+<Navbar></Navbar>
 
 
 
