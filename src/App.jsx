@@ -23,6 +23,7 @@ function App() {
 <Ratings></Ratings>
 <Details></Details>
 <Container></Container>
+<Steps></Steps>
 
 
 
