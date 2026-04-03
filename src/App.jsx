@@ -21,6 +21,7 @@ function App() {
 <Navbar></Navbar>
 <Header></Header>
 <Ratings></Ratings>
+<Details></Details>
 
 
 
