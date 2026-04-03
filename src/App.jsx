@@ -20,7 +20,7 @@ function App() {
         <div className='space-y-5 mt-4'>
 <Navbar></Navbar>
 <Header></Header>
-
+<Ratings></Ratings>
 
 
 
