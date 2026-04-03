@@ -24,6 +24,7 @@ function App() {
 <Details></Details>
 <Container></Container>
 <Steps></Steps>
+<Pricing></Pricing>
 
 
 
