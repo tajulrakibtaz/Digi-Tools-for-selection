@@ -11,7 +11,7 @@ const Container = ({ setSelectedCard, selectCard }) => {
     const fetchCards = loadData();
     const [click, setclick] = useState('Products');
     return (
-        <div>
+        <div className=' max-w-[1200px] mx-auto'>
             <div className='text-center'>
                 <button onClick={() => setclick("Products")} className={`px-6 py-2
 

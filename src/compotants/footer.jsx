@@ -2,8 +2,8 @@ import React from 'react';
 import { FaYoutube, FaFacebookF, FaXTwitter } from "react-icons/fa6";
 const Footer = () => {
     return (
-        <footer className="bg-[#0B1A2B] text-gray-300 px-6 md:px-16 py-12 m-0">
-      <div className="grid md:grid-cols-5 gap-10">
+        <footer className="bg-[#0B1A2B]  text-gray-300 px-6 md:px-16 py-12 m-0">
+      <div className="grid md:grid-cols-5 gap-10 max-w-[1200px] mx-auto">
         
        
         <div className="md:col-span-2">
@@ -62,7 +62,7 @@ const Footer = () => {
       </div>
 
      
-      <div className="border-t border-gray-700 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
+      <div className="border-t max-w-[1200px] mx-auto border-gray-700 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
         <p>© 2026 Digitools. All rights reserved.</p>
 
         <div className="flex gap-6 mt-4 md:mt-0">

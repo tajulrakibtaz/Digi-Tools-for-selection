@@ -9,7 +9,7 @@ const Steps = () => {
 <h1 className='text-[48px] font-extrabold'>Get Started in 3 Steps</h1>
 <p className='text-[16px]'>Start using premium digital tools in minutes, not hours.</p>
             </div>
-            <div className='flex justify-between'>
+            <div className='flex flex-col md:flex-row md:justify-between items-center gap-4 md:gap-0 px-4'>
 <div className='shadow max-w-[380px] p-4 text-center '>
 
 <div className='relative'>

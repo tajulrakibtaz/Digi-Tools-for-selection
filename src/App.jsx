@@ -17,7 +17,7 @@ function App() {
   const [selectCard, setSelectedCard]=useState([])
   return (
     <>
-        <div className='space-y-5 mt-4'>
+        <div className='space-y-5 mt-4 '>
 <Navbar selectCard={selectCard} setSelectedCard={setSelectedCard}></Navbar>
 <Header></Header>
 <Ratings></Ratings>

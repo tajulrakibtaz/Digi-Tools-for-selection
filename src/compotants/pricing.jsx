@@ -2,7 +2,7 @@ import React from 'react';
 
 const Pricing = () => {
     return (
-         <div className="flex gap-6 justify-center py-10 bg-gray-100 mb-0">
+         <div className="flex flex-col  md:flex-row gap-6 justify-center py-10 bg-gray-100 mb-0">
 
   
       <div className="card w-80 bg-base-100 shadow-md">

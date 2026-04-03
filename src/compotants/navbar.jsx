@@ -3,7 +3,7 @@ import React from 'react';
 import { CiShoppingCart } from "react-icons/ci";
 const Navbar = ({ selectCard }) => {
     return (
-          <div className='flex justify-between max-w-[1200px] mx-auto'>
+          <div className=' flex flex-col md:flex-row md:justify-between items-center max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8'>
               <h1 class=" text-[40px] font-bold
 bg-gradient-to-b from-indigo-600 to-purple-500 
 bg-clip-text text-transparent">

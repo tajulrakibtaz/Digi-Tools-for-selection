@@ -2,7 +2,7 @@ import React from 'react';
 import banner from '../assets/products/banner.png'
 const Header = () => {
     return (
-          <div className='flex  gap-6 my-[85px] max-w-[1200px] mx-auto'>
+          <div className='flex flex-col md:flex-row gap-4 md:gap-6 my-10 md:my-[85px] max-w-[1200px] mx-auto px-4 sm:px-6 lg:px-8'>
             <div className=' items-center'>
                 <button className='text-[16px] flex gap-2 text-purple-500 px-5 rounded-xl bg-blue-100'>
                    
