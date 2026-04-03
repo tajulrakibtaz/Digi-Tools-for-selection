@@ -1,16 +1,32 @@
-# React + Vite
+# Digi Tools
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
+<!-- Digi Tool is a web application where users can browse and purchase AI model courses. The platform is designed to be simple, interactive, and easy to use. -->
+Digi tools is a made up demo aplication where user can come and purchase Ai models course . it is designed with interactive and easy use process.
 
-Currently, two official plugins are available:
+## Description
+This project focuses on creating a smooth user experience for selecting and managing courses. Users can explore different AI-related courses, select the ones they are interested in, and see their selections update instantly. The interface is responsive and built to feel fast and interactive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
+- React.js  
+- Tailwind CSS  
+- JavaScript  
+- HTML  
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Card Selection System  
+Users can select courses by clicking on cards. Each card can be toggled, making it easy to add or remove courses.
 
-## Expanding the ESLint configuration
+2. Cart Functionality  
+When the cart button is clicked, the total number of selected courses is shown. This helps users keep track of what they have chosen.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Total Price Calculation  
+The total price updates automatically based on the selected courses, giving users a clear idea of their spending.
+
+## Future Improvements
+- Add backend functionality  
+- User authentication system  
+- Payment integration  
+
+- Created by Tajul Islam Rakib Taz 
