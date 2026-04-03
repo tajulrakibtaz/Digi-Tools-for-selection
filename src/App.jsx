@@ -22,6 +22,7 @@ function App() {
 <Header></Header>
 <Ratings></Ratings>
 <Details></Details>
+<Container></Container>
 
 
 
